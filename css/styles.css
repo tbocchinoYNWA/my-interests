@@ -1,0 +1,22 @@
+body{
+  background-color: #DC143C;
+}
+
+h1{
+  font-size: 48px;
+}
+
+.home-header{
+  text-align: center;
+  font-family:fantasy;
+  font-size: 80px;
+  color: #DC143C;
+}
+
+.center-align{
+  text-align: center;
+}
+
+.right-align{
+  text-align: right;
+}
